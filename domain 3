@@ -1,0 +1,216 @@
+###Chapter 7: PKI and Cryptographic Applications###
+
+Asymmetric Cryptography
+	Public and Private Keys
+	RSA, ElGamal, Elliptic Curve, Diffie–Hellman Key Exchange, Quantum Cryptography, Post-Quantum Cryptography
+
+Hash Functions
+	SHA, MD5, RIPEMD
+	Comparison of Hash Algorithm Value Lengths
+	
+Digital Signatures
+	HMAC
+	Digital Signature Standard
+
+Public Key Infrastructure
+	Certificates
+	Certificate Authorities
+	Certificate Lifecycle
+		Enrollment
+		Verification
+		Revocation
+	Certificate Formats
+	
+Asymmetric Key Management
+Hybrid Cryptography
+Applied Cryptography
+	Portable Devices
+	Email
+	Pretty Good Privacy
+	S/MIME
+	
+Web Applications
+	SSL/TLS
+	Tor and the Dark Web
+
+Steganography and Watermarking
+Networking
+	Circuit Encryption
+	IPsec
+
+Emerging Applications
+	Blockchain
+	Lightweight Cryptography
+	
+Cryptographic Attacks
+	Analytic, Implementation , Statistical , Brute-Force, Fault Injection, Side Channel, Timing, Frequency Analysis and the Ciphertext-Only Attacks
+
+
+
+
+###Chapter 8 - Principles of Security Models, Design, and Capabilities###
+
+Secure Design Principles
+	Objects and Subjects
+	Closed and Open Systems
+	Secure Defaults
+	Fail Securely
+	Keep It Simple
+	Zero Trust
+	Privacy by Design
+	Trust but Verify
+	
+Techniques for Ensuring CIA
+	Confinement
+	Bounds
+	Isolation
+	Access Controls
+	Trust and Assurance
+	
+	
+Understand the Fundamental Concepts of Security Models
+	Tokens, Capabilities, and Labels
+	Trusted Computing Base
+	Security Perimeter
+	Reference Monitors and Kernels
+	State Machine Model
+	Information Flow Model
+	Noninterference Model
+	Take-Grant Model
+	Access Control Matrix
+	Bell–LaPadula Model
+		Lattice-Based Access Control
+	Biba Model
+	Clark–Wilson Model
+	Brewer and Nash Model
+	Goguen–Meseguer Model
+	Sutherland Model
+	Graham–Denning Model
+
+Select Controls Based on Systems Security Requirements
+	Common Criteria
+	Authorization to Operate
+	
+
+Understand Security Capabilities of Information Systems
+	Memory Protection
+	Virtualization
+	Trusted Platform Module
+	Interfaces
+	Fault Tolerance
+	Encryption/Decryption
+	
+	
+### Chapter 9 - Security Vulnerabilities, Threats, and Countermeasures ###
+
+Shared Responsibility
+Assess and Mitigate the Vulnerabilities of Security Architectures, Designs, and Solution Elements
+	Hardware
+	Processor
+		Execution Types (Multitasking, Multicore, Multiprogramming)
+	Protection Mechanisms
+	Protection Rings
+	Progress States (Ready, Running, Waiting, Supervisory, Stopped)
+	Operating Modes (User , Privileged)
+	Memory (Read-Only Memory, Random Access Memory)
+	Registers (Memory Addressing, Secondary Memory)
+	Data Storage Devices (Primary vs. Secondary, Volatile vs. Nonvolatile, Random vs. Sequential, Memory Security Issues)
+	Storage Media Security
+	Emanation Security
+	Firmware
+Client-Based Systems
+	Mobile Code
+	Local Caches
+
+Server-Based Systems
+	Large-Scale Parallel Data Systems
+	Grid Computing
+	Peer to Peer
+	
+Industrial Control Systems
+Distributed Systems
+High-Performance Computing (HPC) Systems	
+Internet of Things
+Edge and Fog Computing
+Embedded Devices and Cyber-Physical Systems	
+Static Systems
+Network-Enabled Devices
+Cyber-Physical Systems
+Elements Related to Embedded and Static Systems
+Security Concerns of Embedded and Static Systems
+Specialized Devices
+Microservices
+Infrastructure as Code
+Virtualized Systems
+Virtual Software
+Virtualized Networking
+Software-Defined Everything
+Virtualization Security Management
+	Server Sprawl and Shadow IT
+Containerization
+Serverless Architecture
+Mobile Devices
+	Mobile Device Security Features
+		Mobile Device Management
+		Device Authentication
+		Full-Device Encryption
+		Communication Protection
+		Remote Wiping
+		Device Lockout
+		Screen Locks
+		GPS and Location Services
+		Content Management
+		Application Control
+		Push Notifications
+		Third-Party Application Stores
+		Storage Segmentation
+		Asset Tracking and Inventory Control
+		Removable Storage
+		Connection Methods
+		Disabling Unused Features
+		Rooting or Jailbreaking
+		Sideloading
+		Custom Firmware
+		Carrier Unlocking
+		Firmware Over-the-Air (OTA) Updates
+		Key Management
+		Credential Management
+		Text Messaging
+	
+	Mobile Device Deployment Policies
+		Bring Your Own Device (BYOD)
+		Corporate-Owned, Personally Enabled (COPE)
+		Choose Your Own Device (CYOD)
+		Corporate-Owned Mobile Strategy (COMS)
+		Mobile Device Deployment Policy Details
+			Data Ownership
+			Support Ownership
+			Patch and Update Management
+			Forensics
+			Privacy
+			Onboarding/Offboarding
+			Adherence to Corporate Policies
+			User Acceptance
+			Architecture/Infrastructure Considerations
+			Legal Concerns
+			Acceptable Use Policy
+			Onboard Camera/Video
+			Recording Microphone
+			Wi-Fi Direct
+			Tethering and Hotspots
+			Contactless Payment Methods
+			SIM Cloning
+Essential Security Protection Mechanisms		
+	Process Isolation
+	Hardware Segmentation
+	System Security Policy
+	
+Common Security Architecture Flaws and Issues
+	Covert Channels (Timing, Storage)
+
+Attacks Based on Design or Coding Flaws
+	Rootkits
+	Incremental Attacks
+		
+	
+
