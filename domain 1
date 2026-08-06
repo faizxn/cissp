@@ -1,0 +1,164 @@
+
+
+###Chapter 1: Security Governance Through Principles and Policies ###
+
+Understand and Apply Security Concepts
+	CIA, DAD, Overprotection, Authenticity, Non-repudiation, and AAA Services
+	
+Protection Mechanisms
+	Defense in Depth, Abstraction, Data Hiding, Encryption
+
+Security Boundaries
+Evaluate and Apply Security Governance Principles	
+	Third-Party Governance
+	Documentation Review
+	
+Manage the Security Function
+	Alignment of Security Function to Business Strategy, Goals, Mission, and Objectives	
+	Organizational Processes
+	Organizational Roles and Responsibilities
+	Security Control Frameworks
+	Due Diligence and Due Care
+	
+Security Policy, Standards, Procedures, and Guidelines
+	Security Policies
+	Security Standards, Baselines, and Guidelines
+	Security Procedures
+
+Threat Modeling
+	Identifying Threats
+	Determining and Diagramming Potential Attacks
+	Performing Reduction Analysis
+	Prioritization and Response
+	
+Supply Chain Risk Management
+	
+	
+###Chapter 2: Personnel Security and Risk Management Concepts###
+
+Personnel Security Policies and Procedures	
+	Job Descriptions and Responsibilities
+	Candidate Screening and Hiring
+	Onboarding: Employment Agreements and Policies
+	Employee Oversight
+	Offboarding, Transfers, and Termination Processes
+	Vendor, Consultant, and Contractor Agreements and Controls
+	Compliance Policy Requirements
+	Privacy Policy Requirements
+	
+Understand and Apply Risk Management Concepts
+	Risk Terminology and Concepts
+	Asset Valuation
+	Identify Threats and Vulnerabilities
+	Risk Assessment/Analysis
+		Qualitative Risk Analysis (Delphi Technique) , Quantitative Risk Analysis
+	Risk Responses
+	Cost vs. Benefit of Security Controls
+	Countermeasure Selection and Implementation
+	Applicable Types of Controls
+	Security Control Assessment
+	Monitoring and Measurement
+	Risk Reporting and Documentation
+	Continuous Improvement
+	Risk Frameworks
+
+Social Engineering
+Social Engineering Principles	
+	Authority, Intimidation, Consensus, Scarcity, Familiarity, Trust, Urgency
+Eliciting Information
+	Prepending
+	
+Phishing (Spear Phishing, Whaling, Smishing, Vishing, Spam, Shoulder Surfing, Invoice Scams, Hoax, Impersonation and Masquerading, Tailgating and Piggybacking)
+Dumpster Diving 
+Identity Fraud
+Typo Squatting
+Influence Campaigns
+Hybrid Warfare
+Social Media
+
+
+Establish and Maintain a Security Awareness, Education, and Training Program
+Awareness
+Training
+Education
+Improvements
+Effectiveness Evaluation
+
+
+###Chapter 3: Business Continuity Planning ###
+
+Planning for Business Continuity
+	Business Continuity Planning vs. Disaster Recovery Planning
+	
+Project Scope and Planning
+	Organizational Review
+	BCP Team Selection
+	Resource Requirements
+	Legal and Regulatory Requirements
+	
+Business Impact Analysis
+	Identifying Priorities
+	Risk Identification
+	Likelihood Assessment
+	Impact Analysis
+	Resource Prioritization
+	
+Continuity Planning
+	Strategy Development
+	Provisions and Processes
+		People
+		Buildings and Facilities
+		Infrastructure
+
+Plan Approval and Implementation
+	Plan Approval
+	Plan Implementation
+	Training and Education
+	BCP Documentation
+		Continuity Planning Goals
+		Statement of Importance
+		Statement of Priorities
+		Statement of Organizational Responsibility
+		Statement of Urgency and Timing
+		Risk Assessment
+		Risk Acceptance/Mitigation
+			Vital Records Program
+			Emergency Response Guidelines
+			Maintenance
+			Testing and Exercises
+			
+			
+			
+### Chapter 4: Laws, Regulations, and Compliance ###
+
+	Categories of Laws
+		Criminal Law, Civil Law, Administrative Law
+		
+	Computer Crime
+		Computer Fraud and Abuse Act
+		CFAA Amendments
+		Federal Sentencing Guidelines
+		Federal Information Security Management Act
+		Federal Cybersecurity Laws of 2014
+		
+	Intellectual Property (IP)
+		Copyright and the Digital Millennium Copyright Act
+		Trademarks
+		Patents
+		Trade Secrets
+		Licensing
+	
+	Import/Export
+		Countries of Concern
+		Encryption Export Controls
+	
+	Privacy	
+		U.S. Privacy Law
+		European Union Privacy Law
+	
+	State Privacy Laws
+	Compliance
+	Contracting and Procurement
+	
+	
+	
