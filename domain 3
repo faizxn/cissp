@@ -1,3 +1,47 @@
+
+###Chapter 6- Cryptography and Symmetric Key Algorithms###
+
+Cryptographic Foundations
+	Goals of Cryptography
+	Cryptographic Mathematics
+	One-Way Functions
+	Nonce
+	Zero-Knowledge Proof
+	Split Knowledge
+	Work Function
+	Ciphers
+		Transposition, Substitution, One-Time Pads, Running Key Ciphers, Block Ciphers, Stream Ciphers, Confusion and Diffusion
+
+Modern Cryptography
+	Cryptographic Keys
+	Symmetric Key Algorithms
+	Asymmetric Key Algorithms
+	Hashing Algorithms
+	
+Symmetric Cryptography
+	Cryptographic Modes of Operation
+		ECB, CBC, CFB, OFB, CTR, GCM, CBC-MAC
+
+	Data Encryption Standard
+	Triple DES
+	IDEA
+	Blowfish
+	Skipjack
+	Rivest Ciphers
+		RC4, RC5, RC6
+	AES
+	CAST
+	Comparison of Symmetric Encryption Algorithms
+	Symmetric Key Management
+		Creation and Distribution of Symmetric Keys
+		Storage and Destruction of Symmetric Keys
+		Key Escrow and Recovery
+
+Cryptographic Lifecycle
+			
+	
+	
+	
 ###Chapter 7: PKI and Cryptographic Applications###
 
 Asymmetric Cryptography
@@ -213,4 +257,3 @@ Attacks Based on Design or Coding Flaws
 	Incremental Attacks
 		
 	
-
