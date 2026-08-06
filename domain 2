@@ -1,0 +1,55 @@
+
+### Chapter 5 - Protecting Security of Assets ###
+
+Identifying and Classifying Information and Assets
+	Defining Sensitive Data
+		Personally Identifiable Information
+		Protected Health Information
+		Proprietary Data
+	
+	Defining Data Classifications
+		Top Secret, Secret, Confidential, Unclassified
+	
+	Defining Asset Classifications
+	Understanding Data States
+	Determining Compliance Requirements
+	Determining Data Security Controls
+
+Establishing Information and Asset Handling Requirements	
+	Data Maintenance
+	Data Loss Prevention (Network, Endpoint)
+	Marking Sensitive Data and Assets
+	Handling Sensitive Information and Assets
+	Data Collection Limitation
+	Data Location
+	Storing Sensitive Data
+	Data Destruction
+		Eliminating Data Remanence
+		Common Data Destruction Methods
+	Ensuring Appropriate Data and Asset Retention
+	
+
+Data Protection Methods
+	Digital Rights Management
+	Cloud Access Security Broker
+	Pseudonymization
+	Tokenization (Registration, Usage, Validation, Completing the Sale)
+	Anonymization
+	
+Understanding Data Roles
+	Data Owners
+	Asset Owners
+	Business/Mission Owners
+	Data Processors and Data Controllers
+	Data Custodians
+	Administrators
+	Users and Subjects
+	
+Using Security Baselines
+	Low, Moderate, High Impact Baseline, Privacy Control Baseline 
+
+Comparing Tailoring and Scoping
+Standards Selection
+	
+	
+	
