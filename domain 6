@@ -1,0 +1,97 @@
+###Chapter 15: Security Assessment	and Testing###
+
+	Building a Security Assessment and Testing Program
+		Security Testing
+		Security Assessments
+		Security Audits
+			Internal Audits
+			External Audits
+			Third- Party Audits (SOC-1,2,3 and Report 1,2)
+			Auditing Standards
+			
+	Performing Vulnerability Assessments
+		Describing Vulnerabilities
+		Vulnerability Scans
+			Network Discovery Scanning
+			Network Vulnerability Scanning
+			Web Vulnerability Scanning
+			Database Vulnerability Scanning
+		Penetration Testing
+			White, Gray, Black, BAS
+		Compliance Checks
+	
+	Testing Your Software
+		Code Review and Testing
+			Code Review
+			Static Testing
+			Dynamic Testing
+			Fuzz Testing
+		Interface Testing (API, UI, Phisycal)	
+		Misuse Case Testing
+		Test Coverage Analysis
+		Website Monitoring
+	
+	Implementing Security Management Processes	
+		Log Reviews
+		Account Management
+		Disaster Recovery and Business Continuity
+		Training and Awareness
+		Key Performance and Risk Indicators
+		
+		
+		
+### Chapter 16: Managing Security Operations ###
+
+	Apply Foundational Security Operations Concepts
+		Need to Know and Least Privilege
+			Need- to- Know Access
+			The Principle of Least Privilege
+		Separation of Duties (SoD) and Responsibilities
+		Two- Person Control
+		Job Rotation
+		Mandatory Vacations
+		Privileged Account Management
+		Service Level Agreements (SLAs)
+		
+	Addressing Personnel Safety and Security
+		Duress
+		Travel
+		Emergency Management
+		Security Training and Awareness
+		
+	Provision Resources Securely
+		Information and Asset Ownership
+		Asset Management
+			Hardware Asset Inventories
+			Software Asset Inventories
+			Intangible Inventories
+	
+	Apply Resource Protection
+		Media Management
+		Media Protection Techniques
+		Tape Media
+		Mobile Devices
+		Managing Media Lifecycle
+		
+	Managed Services in the Cloud
+		Shared Responsibility with Cloud Service Models
+			Scalability and Elasticity
+	
+	Perform Configuration Management (CM)	
+		Provisioning
+		Baselining
+		Using Images for Baselining
+		Automation
+	
+	Managing Change
+		Change Management
+		Versioning
+		Configuration Documentation
+	
+	Managing Patches and Reducing Vulnerabilities	
+		Systems to Manage
+		Patch Management
+		Vulnerability Management
+		Vulnerability Scans
+		Common Vulnerabilities and Exposures
+		
