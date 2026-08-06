@@ -1,1 +1,88 @@
+Chapter 20: Software Development Security
+
+Introducing Systems Development Controls
+
+Software Development
+	Programming Languages
+	Libraries
+	Development Toolsets
+	Object- Oriented Programming
+	Assurance
+	Avoiding and Mitigating System Failure
+	Systems Development Lifecycle
+	Conceptual Definition
+	Functional Requirements Determination
+	Control Specifications Development
+	Design Review
+	Coding
+	Code Review Walk-Through
+	Testing
+	Maintenance and Change Management
+	
+Lifecycle Models
+	Waterfall Model
+	Spiral Model
+	Agile Software Development
+	Capability Maturity Model (CMM)
+	Software Assurance Maturity Model (SAMM)
+	IDEAL Model
+	Gantt Charts and PERT
+	Change and Configuration Management
+	The DevOps Approach
+
+Application Programming Interfaces
+Software Testing
+Code Repositories
+Service- Level Agreements
+Third- Party Software Acquisition
+
+Establishing Databases and Data Warehousing
+	Database Management System Architecture
+		Hierarchical and Distributed Databases
+		Relational Databases
+		Database Transactions
+		Security for Multilevel Databases
+			Concurrency
+			Aggregation
+			Inference
+			Other Security Mechanisms
+		Open Database Connectivity
+	
+	Storage Threats
+	Understanding Knowledge-Based Systems
+		Expert Systems
+		Machine Learning
+		Neural Networks
+		
+			
+			
+Chapter 21: Malicious Code and Application Attacks
+
+Malware
+	Sources of Malicious Code
+	Viruses
+	Virus Propagation Techniques (Master Boot Record Viruses, File Infector Viruses, Macro Viruses, Service Injection Viruses)
+	Virus Technologies (Multipartite Viruses, Stealth Viruses, Polymorphic Viruses, Encrypted Viruses)
+	Hoaxes
+	
+Logic Bombs
+Trojan Horses
+Worms (Code Red Worm, Stuxnet) 
+Spyware and Adware
+Ransomware
+Malicious Scripts
+Zero- Day Attacks
+
+Malware Prevention (Platforms Vulnerable to Malware, Antimalware Software, Integrity Monitoring, Advanced Threat Protection)
+Application Attacks (Buffer Overflows, Time of Check to Time of Use, Backdoors, Privilege Escalation and Rootkits)
+Injection Vulnerabilities (SQL Injection Attacks, Blind Content- Based SQL Injection, Blind Timing- Based SQL Injection, Code Injection Attacks, Command Injection Attacks)
+Exploiting Authorization Vulnerabilities (IDOR, Directory Traversal, File Inclusion)
+Exploiting Web Application Vulnerabilities (Cross- Site Scripting (XSS), SSRF, (CSRF/XSRF, Session Hijacking)
+
+Application Security Controls (Input Validation, Web Application Firewalls)
+Database Security (Parameterized Queries and Stored Procedures, Obfuscation and Camouflage)
+Code Security (Code Signing, Code Reuse, Software Diversity, Code Repositories, Integrity Measurement, Application Resilience)
+Secure Coding Practices (Source Code Comments, Error Handling, Hard- Coded Credentials)
+Memory Management (Resource Exhaustion, Pointer Dereferencing)
+
 
