@@ -1,0 +1,90 @@
+
+###Chapter 13: Managing Identity and Authentication###
+
+Controlling Access to Assets
+	Controlling Physical and Logical Access
+	The CIA Triad and Access Controls
+	
+Managing Identification and Authentication
+	Comparing Subjects and Objects
+	Registration, Proofing, and Establishment of Identity
+	Authorization and Accountability
+	Authentication Factors Overview
+
+Implementing Identity Management
+	Single Sign-On
+	LDAP and Centralized Access Control
+	LDAP and PKIs
+	SSO and Federated Identities
+	Cloud-Based Federation
+	On-Premise Federation
+	Hybrid Federation
+	Just-in-Time
+	
+Credential Management Systems
+	Credential Manager Apps
+	Scripted Access
+	Session Management
+	
+	
+Managing the Identity and Access Provisioning Lifecycle
+	Provisioning and Onboarding
+	Deprovisioning and Offboarding
+	Defining New Roles
+	Account Maintenance
+	Account Access Review
+	
+	
+	
+###Chapter 14: Controlling and Monitoring Access###
+
+Comparing Access Control Models
+	Comparing Permissions, Rights, and Privileges
+	Understanding Authorization Mechanisms
+	Defining Requirements with a Security Policy
+	Introducing Access Control Models
+		Discretionary Access Control 
+		Role- Based Access Control 
+		Rule- Based Access Control 
+		Attribute- Based Access Control 
+		Mandatory Access Control
+		Risk- Based Access Control
+		
+	Implementing Authentication Systems
+		Implementing SSO on the Internet
+			XML, SAML, OAuth, OpenID, OIDC
+		Comparing SAML, OAuth, OpenID, and OIDC
+		
+	Implementing SSO on Internal Networks
+		AAA Protocols
+		Kerberos
+		RADIUS
+		TACACS+
+		
+		
+	Understanding Access Control Attacks
+		Crackers, Hackers, and Attackers
+		Risk Elements
+		Common Access Control Attacks
+			Privilege Escalation
+			Using the su and sudo Commands
+			Minimizing the Use of sudo
+			Password Attacks
+			Dictionary Attack
+			Brute- Force Attack
+			Spraying Attack
+			Credential Stuffing Attack
+			Birthday Attack
+			Rainbow Table Attack
+			Mimikatz
+			Pass- the- Hash Attack
+			Kerberos Exploitation Attack
+			Sniffer Attack
+			Spoofing Attacks
+		Core Protection Methods
+			
+		
+			
+			
+	
+	
