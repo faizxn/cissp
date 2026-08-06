@@ -1,0 +1,139 @@
+
+###Chapter 17 : Preventing and Responding to Incidents###
+
+Conducting Incident Management
+	Defining an Incident
+	Incident Management Steps (Detection, Response, Mitigation, Reporting, Recovery, Remediation, Lessons Learned)
+	
+Implementing Detective and Preventive Measures
+	Basic Preventive Measures
+	
+Understanding Attacks
+	Botnets, DoS, SYN Flood Attack, Smurf and Fraggle Attacks, Ping Flood, Zero- Day Exploit, Man- in- the- Middle Attacks, Sabotage
+
+Intrusion Detection and Prevention Systems
+	Knowledge- and Behavior- Based Detection
+	Host- and Network-Based IDSs
+	Specific Preventive Measures (Honeypots and Honeynets, Warning Banners, Antimalware, Whitelisting and Blacklisting, Firewalls, Sandboxing, Third-Party Security Services)
+
+Logging and Monitoring
+	Logging Techniques
+	Common Log Types
+	Protecting Log Data
+	The Role of Monitoring
+	Audit Trails
+	Monitoring and Accountability
+		Monitoring and Investigations
+		Monitoring and Problem Identification
+	Monitoring Techniques
+		SIEM, Syslog, Sampling, Clipping Levels, Other Monitoring Tools
+		Log Management
+		Egress Monitoring
+		
+	Automating Incident Response
+		Understanding SOAR, Machine Learning and AI Tools
+		Threat Intelligence
+			Understanding the Kill Chain, Understanding the MITRE ATT&CK, Threat Feeds, Threat Hunting
+		
+		The Intersection of SOAR, Machine Learning, AI, and Threat Feeds
+			
+			
+
+
+####Chapter 18: Disaster Recovery Planning####
+
+The Nature of Disaster
+	Natural Disasters (Earthquakes, Floods, Storms, Fires, Pandemics, Other Natural Events)
+	Human- Made Disasters (Fires, Acts of Terrorism, Bombings/Explosions, Power Outages, Network, Utility, and Infrastructure Failures, Hardware/Software Failures, Strikes/Picketing, Theft/Vandalism)
+	
+Understand System Resilience, High Availability, and Fault Tolerance	
+	Protecting Hard Drives
+	Protecting Servers
+	Protecting Power Sources
+	Trusted Recovery
+	Quality of Service
+
+Recovery Strategy
+	Business Unit and Functional Priorities
+	Crisis Management
+	Emergency Communications
+	Workgroup Recovery
+	Alternate Processing Sites (Cold Sites, Hot Sites, Warm Sites, Mobile Sites, Cloud Computing, Mutual Assistance Agreements)
+	
+Database Recovery
+	Electronic Vaulting
+	Remote Journaling
+	Remote Mirroring
+	
+	
+Recovery Plan Development
+	Emergency Response
+	Personnel and Communications
+	Assessment
+	Backups and Off-site Storage
+	Disk- to- Disk Backup
+	Backup Best Practices
+	Tape Rotation
+
+Software Escrow Arrangements
+	Utilities	
+	Logistics and Supplies
+	Recovery vs. Restoration
+	
+	
+Training, Awareness, and Documentation	
+	Testing and Maintenance 
+		Read- Through Test
+		Structured Walk- Through
+		Simulation Test
+		Parallel Test
+		Full- Interruption Test
+		Lessons Learned
+		Lessons Learned
+	
+	
+####Chapter 19: Investigations and Ethics####
+	Investigations
+		Investigation Types
+			Administrative Investigations
+			Criminal Investigations
+			Civil Investigations
+			Regulatory Investigations
+			Industry Standards
+			
+	Electronic Discovery
+	Evidence
+		Admissible Evidence
+		Types of Evidence
+		Chain of Evidence
+		Artifacts, Evidence Collection, and Forensic Procedures
+	Investigation Process
+		Gathering Evidence
+		Calling in Law Enforcement
+		Conducting the Investigation
+		Interviewing Individuals
+		Data Integrity and Retention
+		Reporting and Documenting Investigations
+		
+	Major Categories of Computer Crime
+		Military and Intelligence Attacks
+		Business Attacks
+		Financial Attacks
+		Terrorist Attacks
+		Grudge Attacks
+		Thrill Attacks
+		Hacktivists
+	
+	Ethics
+		Organizational Code of Ethics
+		ISC2 Code of Ethics
+		Code of Ethics Preamble
+		Code of Ethics Canons
+		Code of Ethics Complaints
+		Ethics and the Internet
+		RFC 1087
+		Ten Commandments of Computer Ethics
+		Code of Fair Information Practices
+		
+		
+	
