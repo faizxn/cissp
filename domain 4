@@ -1,0 +1,177 @@
+
+###Chapter 11:  Secure Network Architecture and Components###
+
+OSI Model
+	History of the OSI Model
+	OSI Functionality
+	Encapsulation/Deencapsulation
+	OSI Layers
+	TCP/IP Model
+	Analyzing Network Traffic
+	Common Application Layer Protocols
+	Transport Layer Protocols
+	Domain Name System
+		DNS Poisoning
+		Rogue DNS Server
+		Performing DNS Cache Poisoning
+		DNS Pharming
+		Altering the Hosts File
+		Corrupt the IP Configuration
+		DNS Query Spoofing
+		Use Proxy Falsification
+		Defenses to DNS Poisoning
+	Domain Hijacking
+		Typosquatting
+		Homograph Attack
+		URL Hijacking
+		Clickjacking
+	
+	Internet Protocol (IP) Networking
+		IPv4 vs. IPv6
+		ICMP/IGMP
+		ARP Concerns
+		
+	Secure Communication Protocols
+		IPSec, SSH, Kerberos, Signal Protocol , SRPC, TLS
+		
+	Implications of Multilayer Protocols (TCP/IP)
+	DNP3
+	Converged Protocols
+	Voice over Internet Protocol (VoIP)
+	Software-Defined Networking
+	Microsegmentation
+	Wireless Networks
+		Securing the SSID
+		Wireless Channels
+		Conducting a Site Survey
+		Wireless Security
+		Wired Equivalent Privacy (WEP)
+		Wi-Fi Protected Access (WPA)
+		Wi-Fi Protected Access 2 (WPA2)
+		Wi-Fi Protected Access 3 (WPA3)
+		802.1X/EAP
+		LEAP/PEAP
+		Wi-Fi Protected Setup (WPS)
+	Wireless MAC Filter
+		Wireless Antenna Management
+		Using Captive Portals
+	General Wi-Fi Security Procedure
+	Wireless Communications
+		General Wireless Concepts
+		Bluetooth (802.15)
+		RFID
+		NFC
+		
+	Wireless Attacks
+		Wi-Fi Scanners
+		Rogue Access Points
+		Evil Twin
+		Disassociation
+		Jamming
+		Initialization Vector (IV) Abuse
+		Replay
+		
+	Other Communication Protocols
+		LiFi 
+		Satellite 
+		Narrow-band wireless 
+		Zigbee
+		
+	Cellular Networks
+	Content Distribution Networks (CDNs)
+	Secure Network Components
+		Secure Operation of Hardware
+		Common Network Equipment
+	
+	Network Access Control
+	Firewalls (Static Packet-Filtering , Application , Circuit-Level ,Stateful Inspection , Next-Generation,Internal Segmentation)
+	Proxy (forward proxy, reverse proxy)
+	Content/URL Filter
+	Endpoint Security
+	Cabling, Topology, and Transmission Media Technology
+		Transmission Media
+			Coaxial Cable
+			Baseband and Broadband Cables
+			Twisted-Pair
+			Conductors 
+			5-4-3 Rule
+			Fiber-Optic Cables
+	Network Topologies
+	Ethernet
+	Sub-Technologies
+		Analog and Digital
+		Synchronous and Asynchronous
+		Baseband and Broadband
+		Broadcast, Multicast, and Unicast
+	
+	LAN Media Access
+		
+		
+
+### Chapter 12: Secure Communications and Network Attacks###
+
+	Protocol Security Mechanisms
+		Authentication Protocols
+			PAP, CHAP, EAP
+
+	Port Security
+	Quality of Service (QoS)
+	
+	Secure Voice Communications
+		PSTN, VoIP, Vishing and Phreaking, PBX Fraud and Abuse
+		
+	Remote Access Security Management
+		Remote Access and Telecommuting Techniques
+		Remote Connection Security
+		Plan a Remote Access Security Policy
+		
+	Multimedia Collaboration
+		Remote Meeting
+		Instant Messaging and Chat
+		
+	
+	Load Balancing
+		Virtual IPs and Load Persistence
+		Active-Active vs. Active-Passive
+		
+	
+	Manage Email Security
+		Email Security Goals
+		Understand Email Security Issues
+		Email Security Solutions
+		
+	Virtual Private Network
+		Tunneling, How VPNs Work, Always-On, Split Tunnel vs. Full Tunnel
+		
+	Common VPN Protocols
+		PPTP, L2TP, SSH, OpenVPN, IPSec
+		
+	Switching and Virtual LANs
+		MAC Flooding Attack
+		MAC Cloning
+	
+	Network Address Translation
+		Private IP Addresses
+		Stateful NAT
+		Automatic Private IP Addressing
+		
+		
+	Third-Party Connectivity
+		Switching Technologies
+			Circuit Switching
+			Packet Switching
+			Virtual Circuits
+			
+	WAN Technologies
+		Fiber-Optic Links
+	
+	Security Control Characteristics
+		Transparency
+		Transmission Management Mechanisms
+		
+	Prevent or Mitigate Network Attacks
+		Eavesdropping
+		Modification Attacks
+		
+	
+	
