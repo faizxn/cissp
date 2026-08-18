@@ -1,3 +1,59 @@
+### Chapter 16: Managing Security Operations ###
+
+	Apply Foundational Security Operations Concepts
+		Need to Know and Least Privilege
+			Need- to- Know Access
+			The Principle of Least Privilege
+		Separation of Duties (SoD) and Responsibilities
+		Two- Person Control
+		Job Rotation
+		Mandatory Vacations
+		Privileged Account Management
+		Service Level Agreements (SLAs)
+		
+	Addressing Personnel Safety and Security
+		Duress
+		Travel
+		Emergency Management
+		Security Training and Awareness
+		
+	Provision Resources Securely
+		Information and Asset Ownership
+		Asset Management
+			Hardware Asset Inventories
+			Software Asset Inventories
+			Intangible Inventories
+	
+	Apply Resource Protection
+		Media Management
+		Media Protection Techniques
+		Tape Media
+		Mobile Devices
+		Managing Media Lifecycle
+		
+	Managed Services in the Cloud
+		Shared Responsibility with Cloud Service Models
+			Scalability and Elasticity
+	
+	Perform Configuration Management (CM)	
+		Provisioning
+		Baselining
+		Using Images for Baselining
+		Automation
+	
+	Managing Change
+		Change Management
+		Versioning
+		Configuration Documentation
+	
+	Managing Patches and Reducing Vulnerabilities	
+		Systems to Manage
+		Patch Management
+		Vulnerability Management
+		Vulnerability Scans
+		Common Vulnerabilities and Exposures
+
+
 
 ###Chapter 17 : Preventing and Responding to Incidents###
 
