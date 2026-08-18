@@ -1,0 +1,661 @@
+CISSP
+│
+├── 1. SECURITY & RISK MANAGEMENT
+│   │
+│   ├── CH 1: Security Governance
+│   │   ├── Security Fundamentals
+│   │   │   ├── CIA
+│   │   │   │   ├── Confidentiality
+│   │   │   │   ├── Integrity
+│   │   │   │   └── Availability
+│   │   │   ├── Authenticity
+│   │   │   ├── Nonrepudiation
+│   │   │   ├── Accountability
+│   │   │   └── AAA
+│   │   │       ├── Authentication
+│   │   │       ├── Authorization
+│   │   │       └── Accounting
+│   │   │
+│   │   ├── Protection Mechanisms
+│   │   │   ├── Preventive
+│   │   │   ├── Detective
+│   │   │   ├── Corrective
+│   │   │   ├── Deterrent
+│   │   │   ├── Compensating
+│   │   │   └── Recovery
+│   │   │
+│   │   ├── Security Boundaries
+│   │   │   ├── Physical
+│   │   │   ├── Logical
+│   │   │   └── Administrative
+│   │   │
+│   │   ├── Governance
+│   │   │   ├── Business Alignment
+│   │   │   ├── Roles & Responsibilities
+│   │   │   ├── Security Function
+│   │   │   ├── Governance Committees
+│   │   │   └── Third-Party Governance
+│   │   │
+│   │   ├── Documentation Hierarchy
+│   │   │   ├── Policy
+│   │   │   ├── Standard
+│   │   │   ├── Baseline
+│   │   │   ├── Procedure
+│   │   │   └── Guideline
+│   │   │
+│   │   ├── Due Care
+│   │   ├── Due Diligence
+│   │   ├── Security Frameworks
+│   │   ├── Threat Modeling
+│   │   │   ├── Identify Threats
+│   │   │   ├── Attack Modeling
+│   │   │   ├── Reduction Analysis
+│   │   │   ├── Prioritization
+│   │   │   └── Response
+│   │   └── Supply Chain Risk Management
+│   │       ├── Hardware
+│   │       ├── Software
+│   │       ├── Services
+│   │       ├── Third Parties
+│   │       ├── Minimum Requirements
+│   │       └── SLAs
+│   │
+│   ├── CH 2: Personnel Security & Risk
+│   │   ├── Personnel Security
+│   │   │   ├── Job Description
+│   │   │   ├── Screening
+│   │   │   ├── Hiring
+│   │   │   ├── Onboarding
+│   │   │   ├── Employment Agreements
+│   │   │   ├── Oversight
+│   │   │   ├── Transfers
+│   │   │   ├── Termination
+│   │   │   └── Offboarding
+│   │   │
+│   │   ├── Third Parties
+│   │   │   ├── Vendors
+│   │   │   ├── Contractors
+│   │   │   ├── Consultants
+│   │   │   └── Agreements
+│   │   │
+│   │   ├── Risk
+│   │   │   ├── Asset
+│   │   │   ├── Threat
+│   │   │   ├── Vulnerability
+│   │   │   ├── Exposure
+│   │   │   ├── Impact
+│   │   │   └── Risk
+│   │   │
+│   │   ├── Risk Assessment
+│   │   ├── Risk Analysis
+│   │   │   ├── Qualitative
+│   │   │   └── Quantitative
+│   │   │
+│   │   ├── Risk Responses
+│   │   │   ├── Avoid
+│   │   │   ├── Mitigate
+│   │   │   ├── Transfer
+│   │   │   └── Accept
+│   │   │
+│   │   ├── SLE
+│   │   ├── ARO
+│   │   ├── ALE
+│   │   ├── Residual Risk
+│   │   ├── Risk Appetite
+│   │   └── Risk Tolerance
+│   │
+│   ├── CH 3: Business Continuity Planning
+│   │   ├── Business Continuity
+│   │   ├── BIA
+│   │   │   ├── Critical Processes
+│   │   │   ├── Dependencies
+│   │   │   ├── Impact
+│   │   │   └── Priorities
+│   │   ├── RTO
+│   │   ├── RPO
+│   │   ├── MTD
+│   │   ├── WRT
+│   │   ├── MTBF
+│   │   ├── MTTR
+│   │   ├── Business Continuity Strategy
+│   │   ├── Recovery Strategy
+│   │   └── BCP Testing
+│   │
+│   ├── CH 4: Laws, Regulations & Compliance
+│   │   ├── Criminal Law
+│   │   ├── Civil Law
+│   │   ├── Administrative Law
+│   │   ├── Regulatory Requirements
+│   │   ├── Computer Crime
+│   │   ├── Intellectual Property
+│   │   │   ├── Copyright
+│   │   │   ├── Patent
+│   │   │   ├── Trademark
+│   │   │   └── Trade Secret
+│   │   ├── Privacy
+│   │   ├── Contracts
+│   │   └── Compliance
+│   │
+│   └── CH 19: Investigations & Ethics
+│       ├── Investigation Types
+│       │   ├── Administrative
+│       │   ├── Criminal
+│       │   ├── Civil
+│       │   └── Regulatory
+│       ├── Electronic Discovery
+│       ├── Evidence
+│       │   ├── Best Evidence
+│       │   ├── Corroborative
+│       │   ├── Circumstantial
+│       │   └── Direct
+│       ├── Admissibility
+│       ├── Chain of Custody
+│       ├── Evidence Collection
+│       ├── Forensics
+│       └── Ethics
+│
+├── 2. ASSET SECURITY
+│   │
+│   └── CH 5: Protecting Security of Assets
+│       ├── Asset Identification
+│       ├── Asset Inventory
+│       ├── Asset Ownership
+│       ├── Data Ownership
+│       │   ├── Owner
+│       │   ├── Custodian
+│       │   └── User
+│       ├── Data Classification
+│       │   ├── Top Secret
+│       │   ├── Secret
+│       │   ├── Confidential
+│       │   └── Unclassified
+│       ├── Information Classification
+│       ├── Data States
+│       │   ├── At Rest
+│       │   ├── In Transit
+│       │   └── In Use
+│       ├── Data Lifecycle
+│       │   ├── Create
+│       │   ├── Store
+│       │   ├── Use
+│       │   ├── Share
+│       │   ├── Archive
+│       │   └── Destroy
+│       ├── Data Retention
+│       ├── Data Protection
+│       ├── Privacy
+│       ├── Data Remanence
+│       └── Media Sanitization
+│           ├── Clearing
+│           ├── Purging
+│           └── Destruction
+│
+├── 3. SECURITY ARCHITECTURE & ENGINEERING
+│   │
+│   ├── CH 6: Cryptography & Symmetric Key Algorithms
+│   │   ├── Cryptography Goals
+│   │   │   ├── Confidentiality
+│   │   │   ├── Integrity
+│   │   │   ├── Authentication
+│   │   │   └── Nonrepudiation
+│   │   ├── Symmetric
+│   │   │   ├── AES
+│   │   │   ├── 3DES
+│   │   │   ├── Blowfish
+│   │   │   └── Twofish
+│   │   ├── Block Ciphers
+│   │   ├── Stream Ciphers
+│   │   ├── Modes
+│   │   │   ├── ECB
+│   │   │   ├── CBC
+│   │   │   ├── CFB
+│   │   │   ├── OFB
+│   │   │   └── CTR
+│   │   ├── Hashing
+│   │   │   ├── MD5
+│   │   │   ├── SHA-1
+│   │   │   └── SHA-2
+│   │   ├── HMAC
+│   │   ├── Cryptanalysis
+│   │   └── Key Management
+│   │
+│   ├── CH 7: PKI & Cryptographic Applications
+│   │   ├── Asymmetric Cryptography
+│   │   │   ├── RSA
+│   │   │   ├── ECC
+│   │   │   └── El Gamal
+│   │   ├── Diffie-Hellman
+│   │   ├── Digital Signatures
+│   │   ├── Digital Certificates
+│   │   ├── PKI
+│   │   │   ├── CA
+│   │   │   ├── RA
+│   │   │   ├── Certificate
+│   │   │   ├── CRL
+│   │   │   └── OCSP
+│   │   ├── Certificate Lifecycle
+│   │   ├── Key Management
+│   │   ├── Cryptographic Attacks
+│   │   └── Steganography
+│   │
+│   ├── CH 8: Security Models, Design & Capabilities
+│   │   ├── Security Models
+│   │   │   ├── Bell-LaPadula
+│   │   │   │   ├── No Read Up
+│   │   │   │   └── No Write Down
+│   │   │   ├── Biba
+│   │   │   │   ├── No Read Down
+│   │   │   │   └── No Write Up
+│   │   │   ├── Clark-Wilson
+│   │   │   ├── Brewer-Nash
+│   │   │   ├── Graham-Denning
+│   │   │   ├── Sutherland
+│   │   │   └── Take-Grant
+│   │   ├── Security Principles
+│   │   │   ├── Least Privilege
+│   │   │   ├── Defense in Depth
+│   │   │   ├── Fail Secure
+│   │   │   ├── Secure Defaults
+│   │   │   ├── Complete Mediation
+│   │   │   ├── Economy of Mechanism
+│   │   │   ├── Open Design
+│   │   │   └── Separation of Privilege
+│   │   ├── Trusted Computing
+│   │   ├── TCB
+│   │   ├── Security Kernel
+│   │   ├── Reference Monitor
+│   │   ├── Common Criteria
+│   │   ├── Protection Profile
+│   │   └── Security Target
+│   │
+│   ├── CH 9: Vulnerabilities, Threats & Countermeasures
+│   │   ├── CPU Architecture
+│   │   ├── Memory
+│   │   ├── Firmware
+│   │   ├── Hardware Security
+│   │   ├── Operating System Security
+│   │   ├── Virtualization
+│   │   │   ├── Hypervisor
+│   │   │   ├── VM Escape
+│   │   │   └── VM Sprawl
+│   │   ├── Containers
+│   │   ├── Cloud Computing
+│   │   │   ├── IaaS
+│   │   │   ├── PaaS
+│   │   │   └── SaaS
+│   │   ├── Mobile Systems
+│   │   ├── IoT
+│   │   ├── Embedded Systems
+│   │   └── Secure Architecture
+│   │
+│   └── CH 10: Physical Security Requirements
+│       ├── Facility Security
+│       ├── Perimeter Security
+│       │   ├── Fences
+│       │   ├── Gates
+│       │   ├── Guards
+│       │   └── Lighting
+│       ├── Physical Access Controls
+│       │   ├── Locks
+│       │   ├── Mantrap
+│       │   ├── Turnstile
+│       │   └── Badge
+│       ├── Surveillance
+│       │   ├── CCTV
+│       │   ├── Sensors
+│       │   └── Alarms
+│       ├── Environmental Controls
+│       │   ├── HVAC
+│       │   ├── Humidity
+│       │   ├── Temperature
+│       │   └── Static
+│       ├── Fire Protection
+│       ├── Power
+│       │   ├── UPS
+│       │   ├── Generator
+│       │   └── Surge Protection
+│       └── Facility Resilience
+│
+├── 4. COMMUNICATION & NETWORK SECURITY
+│   │
+│   ├── CH 11: Secure Network Architecture & Components
+│   │   ├── OSI Model
+│   │   │   ├── L7 Application
+│   │   │   ├── L6 Presentation
+│   │   │   ├── L5 Session
+│   │   │   ├── L4 Transport
+│   │   │   ├── L3 Network
+│   │   │   ├── L2 Data Link
+│   │   │   └── L1 Physical
+│   │   ├── TCP/IP
+│   │   ├── IPv4 / IPv6
+│   │   ├── Network Devices
+│   │   │   ├── Hub
+│   │   │   ├── Switch
+│   │   │   ├── Router
+│   │   │   ├── Bridge
+│   │   │   ├── Gateway
+│   │   │   └── Firewall
+│   │   ├── Network Architecture
+│   │   │   ├── LAN
+│   │   │   ├── WAN
+│   │   │   ├── MAN
+│   │   │   ├── VLAN
+│   │   │   ├── SDN
+│   │   │   ├── VXLAN
+│   │   │   └── SD-WAN
+│   │   ├── Wireless
+│   │   │   ├── Wi-Fi
+│   │   │   ├── WEP
+│   │   │   ├── WPA
+│   │   │   ├── WPA2
+│   │   │   └── WPA3
+│   │   ├── Cellular
+│   │   ├── Satellite
+│   │   ├── CDN
+│   │   └── Network Access Control
+│   │
+│   └── CH 12: Secure Communications & Network Attacks
+│       ├── Protocol Security
+│       │   ├── PAP
+│       │   ├── CHAP
+│       │   ├── EAP
+│       │   ├── RADIUS
+│       │   └── TACACS+
+│       ├── Secure Protocols
+│       │   ├── TLS
+│       │   ├── IPsec
+│       │   ├── SSH
+│       │   ├── SFTP
+│       │   ├── HTTPS
+│       │   ├── S/MIME
+│       │   └── SRTP
+│       ├── VPN
+│       │   ├── Site-to-Site
+│       │   ├── Remote Access
+│       │   ├── Tunnel Mode
+│       │   └── Transport Mode
+│       ├── VoIP
+│       ├── PBX
+│       ├── Vishing
+│       ├── Phreaking
+│       ├── Network Attacks
+│       │   ├── DoS
+│       │   ├── DDoS
+│       │   ├── MITM
+│       │   ├── Replay
+│       │   ├── Spoofing
+│       │   ├── Sniffing
+│       │   ├── ARP Poisoning
+│       │   ├── DNS Attacks
+│       │   ├── VLAN Hopping
+│       │   └── Session Hijacking
+│       └── Network Security Controls
+│           ├── Firewall
+│           ├── IDS
+│           ├── IPS
+│           ├── WAF
+│           ├── Proxy
+│           └── NAC
+│
+├── 5. IDENTITY & ACCESS MANAGEMENT
+│   │
+│   ├── CH 13: Managing Identity & Authentication
+│   │   ├── Identification
+│   │   ├── Authentication
+│   │   ├── Authorization
+│   │   ├── Accountability
+│   │   ├── Authentication Factors
+│   │   │   ├── Something You Know
+│   │   │   ├── Something You Have
+│   │   │   ├── Something You Are
+│   │   │   ├── Somewhere You Are
+│   │   │   └── Something You Do
+│   │   ├── MFA
+│   │   ├── Passwords
+│   │   ├── Biometrics
+│   │   │   ├── FAR
+│   │   │   ├── FRR
+│   │   │   └── CER
+│   │   ├── SSO
+│   │   ├── Federation
+│   │   ├── SAML
+│   │   ├── OAuth
+│   │   ├── OIDC
+│   │   ├── Kerberos
+│   │   ├── RADIUS
+│   │   ├── TACACS+
+│   │   └── Identity Lifecycle
+│   │       ├── Provisioning
+│   │       ├── Modification
+│   │       └── Deprovisioning
+│   │
+│   └── CH 14: Controlling & Monitoring Access
+│       ├── Access Control
+│       │   ├── DAC
+│       │   ├── MAC
+│       │   ├── RBAC
+│       │   ├── ABAC
+│       │   ├── Rule-Based
+│       │   └── Risk-Based
+│       ├── Authorization
+│       ├── Permissions
+│       ├── Rights
+│       ├── Privileges
+│       ├── Access Control Administration
+│       ├── Access Reviews
+│       ├── Privilege Escalation
+│       ├── Sudo
+│       ├── Managed Service Accounts
+│       └── Access Control Attacks
+│           ├── Pass the Hash
+│           ├── Pass the Ticket
+│           ├── Golden Ticket
+│           ├── Credential Attacks
+│           └── Session Attacks
+│
+├── 6. SECURITY ASSESSMENT & TESTING
+│   │
+│   └── CH 15: Security Assessment & Testing
+│       ├── Security Testing
+│       ├── Security Assessment
+│       ├── Security Audit
+│       │   ├── Internal
+│       │   ├── External
+│       │   └── Third Party
+│       ├── Vulnerability Assessment
+│       │   ├── Vulnerability Scanning
+│       │   ├── Authenticated
+│       │   └── Unauthenticated
+│       ├── Penetration Testing
+│       │   ├── Black Box
+│       │   ├── White Box
+│       │   └── Gray Box
+│       ├── Security Testing
+│       │   ├── Code Review
+│       │   ├── Interface Testing
+│       │   ├── Misuse Cases
+│       │   ├── Test Coverage
+│       │   └── Breach Attack Simulation
+│       ├── Compliance Checks
+│       ├── Log Review
+│       ├── Account Management Review
+│       ├── Backup Verification
+│       ├── Security Metrics
+│       │   ├── KPI
+│       │   └── KRI
+│       ├── Reporting
+│       ├── Remediation
+│       ├── Exception Handling
+│       └── Ethical Disclosure
+│
+├── 7. SECURITY OPERATIONS
+│   │
+│   ├── CH 16: Managing Security Operations
+│   │   ├── Least Privilege
+│   │   ├── Need to Know
+│   │   ├── Separation of Duties
+│   │   ├── Two-Person Control
+│   │   ├── Job Rotation
+│   │   ├── Mandatory Vacation
+│   │   ├── Privileged Account Management
+│   │   ├── SLA
+│   │   ├── Personnel Safety
+│   │   │   ├── Travel
+│   │   │   ├── Duress
+│   │   │   ├── Emergency
+│   │   │   └── Awareness
+│   │   ├── Asset Management
+│   │   ├── Media Management
+│   │   ├── Cloud Services
+│   │   ├── Shared Responsibility
+│   │   ├── Configuration Management
+│   │   │   ├── Provisioning
+│   │   │   ├── Baseline
+│   │   │   ├── Imaging
+│   │   │   └── Automation
+│   │   ├── Change Management
+│   │   ├── Versioning
+│   │   ├── Patch Management
+│   │   └── Vulnerability Management
+│   │
+│   ├── CH 17: Preventing & Responding to Incidents
+│   │   ├── Incident
+│   │   ├── Incident Management
+│   │   │   ├── Preparation
+│   │   │   ├── Detection
+│   │   │   ├── Analysis
+│   │   │   ├── Containment
+│   │   │   ├── Eradication
+│   │   │   ├── Recovery
+│   │   │   └── Lessons Learned
+│   │   ├── Preventive Controls
+│   │   ├── Detective Controls
+│   │   ├── IDS
+│   │   ├── IPS
+│   │   ├── Logging
+│   │   ├── Monitoring
+│   │   ├── SIEM
+│   │   ├── Egress Monitoring
+│   │   ├── SOAR
+│   │   ├── Threat Intelligence
+│   │   ├── Machine Learning
+│   │   └── AI
+│   │
+│   ├── CH 18: Disaster Recovery Planning
+│   │   ├── Disaster
+│   │   │   ├── Natural
+│   │   │   └── Human-Made
+│   │   ├── Resilience
+│   │   ├── High Availability
+│   │   ├── Redundancy
+│   │   ├── Fault Tolerance
+│   │   ├── Recovery Sites
+│   │   │   ├── Hot
+│   │   │   ├── Warm
+│   │   │   └── Cold
+│   │   ├── Backups
+│   │   │   ├── Full
+│   │   │   ├── Incremental
+│   │   │   └── Differential
+│   │   ├── Recovery Strategies
+│   │   ├── DR Testing
+│   │   │   ├── Read Through
+│   │   │   ├── Walkthrough
+│   │   │   ├── Simulation
+│   │   │   ├── Parallel
+│   │   │   └── Full Interruption
+│   │   └── Restoration
+│   │
+│   └── CH 19: Investigations & Ethics
+│       ├── Investigations
+│       ├── Evidence
+│       ├── Chain of Custody
+│       ├── Electronic Discovery
+│       ├── Forensics
+│       ├── Evidence Collection
+│       ├── Evidence Preservation
+│       ├── Legal Considerations
+│       └── Professional Ethics
+│
+└── 8. SOFTWARE DEVELOPMENT SECURITY
+    │
+    ├── CH 20: Software Development Security
+    │   ├── SDLC
+    │   │   ├── Requirements
+    │   │   ├── Design
+    │   │   ├── Development
+    │   │   ├── Testing
+    │   │   ├── Deployment
+    │   │   ├── Maintenance
+    │   │   └── Retirement
+    │   ├── Development Models
+    │   │   ├── Waterfall
+    │   │   ├── Agile
+    │   │   ├── Scrum
+    │   │   ├── Spiral
+    │   │   └── DevOps
+    │   ├── DevSecOps
+    │   ├── Secure Coding
+    │   ├── Software Acquisition
+    │   ├── Third-Party Software
+    │   ├── APIs
+    │   ├── Databases
+    │   ├── Change Management
+    │   ├── Version Control
+    │   ├── Configuration Management
+    │   └── Application Security Testing
+    │       ├── SAST
+    │       ├── DAST
+    │       ├── IAST
+    │       ├── Code Review
+    │       └── Penetration Testing
+    │
+    └── CH 21: Malicious Code & Application Attacks
+        ├── Malware
+        │   ├── Virus
+        │   ├── Worm
+        │   ├── Trojan
+        │   ├── Logic Bomb
+        │   ├── Rootkit
+        │   ├── Ransomware
+        │   ├── Spyware
+        │   ├── Botnet
+        │   └── Keylogger
+        │
+        ├── Virus Types
+        │   ├── Boot Sector
+        │   ├── File Infector
+        │   ├── Macro
+        │   ├── Multipartite
+        │   ├── Stealth
+        │   ├── Polymorphic
+        │   └── Encrypted
+        │
+        ├── Application Attacks
+        │   ├── SQL Injection
+        │   ├── XSS
+        │   │   ├── Stored
+        │   │   ├── Reflected
+        │   │   └── DOM
+        │   ├── CSRF
+        │   ├── Command Injection
+        │   ├── Buffer Overflow
+        │   ├── Integer Overflow
+        │   ├── Directory Traversal
+        │   ├── Race Conditions
+        │   ├── TOCTOU
+        │   ├── Session Attacks
+        │   ├── Authentication Attacks
+        │   └── API Attacks
+        │
+        └── Application Defenses
+            ├── Input Validation
+            ├── Output Encoding
+            ├── Parameterized Queries
+            ├── Secure Authentication
+            ├── Secure Session Management
+            ├── Least Privilege
+            ├── Sandboxing
+            ├── Secure Configuration
+            └── Secure SDLC
