@@ -1,5 +1,8 @@
 # OWASP SAMM vs BSIMM (Building Security In Maturity Model): (Prescriptive - “What should we do?” & Descriptive - “What are organizations actually doing?”)
-Security practices/framework & Provides a roadmap to improve software security vs Real-world observations and data 
+Security practices/framework & Provides a roadmap to improve software security vs Real-world observations and data.
+
+# Instance Metadata Service Version 2 (IMDSv2) is a session-oriented security feature for Amazon EC2 that protects instance metadata and helps 
+block Server-Side Request Forgery (SSRF) attacks
 
 # xACML: XACML (eXtensible Access Control Markup Language) is an XML-based standard language and architecture used to define and 
 implement fine-grained, Attribute-Based Access Control (ABAC) policies
