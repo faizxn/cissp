@@ -1,0 +1,7 @@
+# OWASP SAMM vs BSIMM (Building Security In Maturity Model): (Prescriptive - “What should we do?” & Descriptive - “What are organizations actually doing?”)
+Security practices/framework & Provides a roadmap to improve software security vs Real-world observations and data 
+
+# xACML: XACML (eXtensible Access Control Markup Language) is an XML-based standard language and architecture used to define and 
+implement fine-grained, Attribute-Based Access Control (ABAC) policies
+-PEP, PDP, PIP, PAP
+
