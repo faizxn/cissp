@@ -12,3 +12,7 @@ block Server-Side Request Forgery (SSRF) attacks.
 
 # Supply-chain Levels for Software Artifacts (SLSA) framework Level 3.
 
+# A use-after-free (UAF) vulnerability happens when a program tries to use a piece of memory after it has already been released or deleted.
+
+
+
