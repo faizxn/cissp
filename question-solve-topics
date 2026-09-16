@@ -11,8 +11,7 @@ Security practices/framework & Provides a roadmap to improve software security v
 block Server-Side Request Forgery (SSRF) attacks.
 
 # Supply-chain Levels for Software Artifacts (SLSA) framework Level 3.
-
 # A use-after-free (UAF) vulnerability happens when a program tries to use a piece of memory after it has already been released or deleted.
-
-
+# SPIFFE and SPIRE are open-source cloud-native technologies that provide secure, automated cryptographic identities to software services (workloads) without using static passwords or API keys
+#
 
